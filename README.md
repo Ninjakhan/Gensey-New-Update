@@ -1,7 +1,7 @@
 # Gensey-New-Update
 Gensey all Error Solution
 >[!Note]
->Whenever Gensyn updates their node, use these commands one by one. However, wait for my update before proceeding. Join my Telegram channel to get the latest information when an update is needed : [ZunXBT](https://t.me/zunxbt)
+>Whenever Gensyn updates their node, use these commands one by one. However, wait for my update before proceeding. Join my Telegram channel to get the latest information when an update is needed : [https://t.me/feature_earning]
 
 ### 1. First kill all the existing gensyn screen session
 ```
