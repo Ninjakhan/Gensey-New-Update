@@ -17,7 +17,7 @@ Gensey all Error Solution
 ```
 ### 4. Now use this command to run the `rl-swarm`
 ```
-`cd $HOME && rm -rf gensyn-testnet && git clone https://github.com/mobinfe/gensyn-testnet.git && chmod +x gensyn-testnet/gensyn.sh && ./gensyn-testnet/gensyn.sh`
+`cd $HOME && rm -rf gensyn-testnet && git clone https://github.com/zunxbt/gensyn-testnet.git && chmod +x gensyn-testnet/gensyn.sh && ./gensyn-testnet/gensyn.sh`
 ```
 - After running the above command, it will show something like this :
   
